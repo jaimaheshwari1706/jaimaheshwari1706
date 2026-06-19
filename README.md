@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Jai Maheshwari 👋</h1>
-<h3 align="center">Software Development Engineer @ Ubitech Solutions Pvt. Ltd.</h3>
+<h3 align="center">Software Development Engineer</h3>
 <h4 align="center">Angular • TypeScript • PHP • Node.js • MySQL</h4>
 
 <p align="center">
